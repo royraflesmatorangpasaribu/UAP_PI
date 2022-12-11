@@ -192,4 +192,13 @@ def characterlist2(nama2):
                        "Obito Uchiha (うちはオビト, Uchiha Obito) adalah anggota klan Uchiha dari Konohagakure. Dia diyakini telah meninggal selama Perang \n"+
                        "Dunia Shinobi Ketiga, satu-satunya warisan yang masih ada adalah Sharingan yang dia berikan kepada rekan setimnya, Kakashi Hatake.\n"+
                        "\nLink Fandom : https://naruto.fandom.com/id/wiki/Obito_Uchiha\n",
-
+    "Itachi Uchiha"  : "Data diri : \n"+
+                       "Itachi Uchiha (団扇 鼬, Uchiha Itachi) adalah seorang anak ajaib klan Uchiha dari Konohagakure. \n"+
+                       "Ia menjadi seorang penjahat internasional setelah membunuh seluruh klan, dan hanya menyelamatkan adiknya, Sasuke.\n"+
+                       "\nLink Fandom : https://naruto.fandom.com/id/wiki/Itachi_Uchiha\n",
+    "Nara Shikamaru" : "Data Diri : \n"+
+                       "Shikamaru Nara (奈良シカマル, Nara Shikamaru) adalah anggota Klan Nara dari Konohagakure. Meskipun malas adalah sifat alaminya, \n"+
+                       "Shikamaru memiliki kecerdasan langka dan konsisten yang memungkinkan dia untuk menang dalam pertempuran.\n"+
+                       "\nLink Fandom : https://naruto.fandom.com/id/wiki/Shikamaru_Nara\n"
+    
+}
