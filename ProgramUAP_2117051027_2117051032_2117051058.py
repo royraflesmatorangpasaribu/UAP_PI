@@ -155,7 +155,7 @@ def characterlist2(nama2):
     else:
     print('\nPilihan Tidak Tersedia!')
     
-    narutoDict = {
+narutoDict = {
     "Hatake Kakashi" : "Data diri : \n"+
                        "Kakashi Hatake (派竹 歌々子, Hatake Kakashi) adalah shinobi Konohagakure dari klan Hatake.\n"+
                        "Terkenal sebagai Kakashi si Sharingan (写輪眼のカカシ, Sharingan no Kakashi), \n"+
@@ -202,3 +202,11 @@ def characterlist2(nama2):
                        "\nLink Fandom : https://naruto.fandom.com/id/wiki/Shikamaru_Nara\n"
     
 }
+
+    
+bleachDict = {
+    "Kurosaki Ichigo" : "Data diri : \n"+
+                        "Ichigo Kurosaki (黒崎 一護, Kurosaki Ichigo) adalah seorang Manusia yang memiliki kekuatan Shinigami. Dia juga adalah seorang \n"+
+                        "Shinigami Pengganti. Ichigo adalah anak dari Isshin dan Masaki Kurosaki, dan kakak tertua dari Karin dan Yuzu. \n"+
+                        "\nLink Fandom : https://bleach.fandom.com/id/wiki/Ichigo_Kurosaki\n",
+   
