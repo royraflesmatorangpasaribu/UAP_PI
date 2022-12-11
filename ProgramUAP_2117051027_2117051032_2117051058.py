@@ -218,4 +218,4 @@ bleachDict = {
                         "\nLink Fandom : https://bleach.fandom.com/id/wiki/Byakuya_Kuchiki\n",
     "Aizen Sousuke"   : "Data diri : \n"+
                         "Sōsuke Aizen (藍染 惣右介, Aizen Sōsuke) adalah mantan kapten Divisi 5 di Gotei 13. Sebelum dia meninggalkan Soul Society "+
-                        "bersama pengikutnya, Gin Ichimaru dan Kaname Tōsen. \n"+
+                        "bersama pengikutnya, Gin Ichimaru dan Kaname Tōsen. \n"+"\nLink Fandom : https://bleach.fandom.com/id/wiki/Sōsuke_Aizen\n",
