@@ -298,3 +298,8 @@ def feedback():
 
   if menu == 1:
     alldata()
+    
+  elif menu == 2:
+    listAnime = ["1. Naruto", "2. Bleach"]
+    for i in range(2):
+              print(listAnime[i])
