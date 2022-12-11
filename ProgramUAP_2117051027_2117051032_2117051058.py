@@ -19,3 +19,8 @@ def alldata():
   print('----------NARUTO----------')
   for data in katabijak['result']:
     print('Character\t :', data['character'].upper(),'\nQuotes\t\t :', data['indo'],'\n')
+
+      print('----------BLEACH----------')
+  for data in katabijak2['result']:
+    
+    print('Character\t :', data['character'].upper(),'\nQuotes\t\t :', data['indo'],'\n')
