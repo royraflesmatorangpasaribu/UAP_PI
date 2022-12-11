@@ -247,3 +247,11 @@ def feedback():
                 break
             except :
                 print("Masukkan Pilihan 1, 2, 3! BUKAN HURUF ATAU KATA!!!\n")
+                
+         if pilihan == 1:
+            try:
+                infile = open(nama_file, "r")
+                print("\nIsi dari",nama_file,":",infile.read())
+                infile.close()
+            except FileNotFoundError:
+                print("File", nama_file , "Tidak ada")
