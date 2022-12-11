@@ -151,3 +151,6 @@ def characterlist2(nama2):
         print('Quotes\t :',data['indo'])
     print()
     print(bleachDict['Ulquiorra Schiffer'])
+
+    else:
+    print('\nPilihan Tidak Tersedia!')
