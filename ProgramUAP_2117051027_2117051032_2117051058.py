@@ -316,4 +316,8 @@ def feedback():
                   "6. Obito Uchiha",
                   "7. Itachi Uchiha",
                   "8. Nara Shikamaru"]  
-      
+      for i in range(8):
+              print(Karakter[i])
+
+      name=int(input("\nPilih Karakter : \n"))
+      characterlist(name)
