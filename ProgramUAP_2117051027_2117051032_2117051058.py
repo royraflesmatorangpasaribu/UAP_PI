@@ -255,3 +255,17 @@ def feedback():
                 infile.close()
             except FileNotFoundError:
                 print("File", nama_file , "Tidak ada")
+         
+         elif pilihan == 2:
+            try:
+                with open(nama_file, 'r') as nf:
+                    print("\nIsi dari",nama_file,": ")
+                    print(nf.read())
+                isi = input("\nTambahkan teks ke file : ")
+                outfile = open(nama_file, 'a')
+                outfile.write("\n")
+                outfile.write(isi)
+                outfile = open(nama_file, 'r')
+                print("NOTIFIKASI : ",isi, "Berhasil ditambahkan pada File",nama_file,"\n") 
+                print("\nIsi dari",nama_file,":",outfile.read())
+                outfile.close()     
