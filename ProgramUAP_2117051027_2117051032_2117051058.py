@@ -154,3 +154,21 @@ def characterlist2(nama2):
 
     else:
     print('\nPilihan Tidak Tersedia!')
+    
+    narutoDict = {
+    "Hatake Kakashi" : "Data diri : \n"+
+                       "Kakashi Hatake (派竹 歌々子, Hatake Kakashi) adalah shinobi Konohagakure dari klan Hatake.\n"+
+                       "Terkenal sebagai Kakashi si Sharingan (写輪眼のカカシ, Sharingan no Kakashi), \n"+
+                       "dia adalah salah satu ninja Konoha yang paling berbakat; secara teratur tampak suka memberi nasihat \n"+
+                       "dan berkepemimpinan meskipun dia tidak menyukai tanggung jawab pribadi. Untuk murid-muridnya di Tim 7, \n"+
+                       "Kakashi mengajarkan pentingnya kerja sama tim, sebuah pelajaran yang dia terima, bersama dengan Sharingan, \n"+
+                       "dari teman masa kecilnya, Obito Uchiha. Setelah Perang Dunia Shinobi Keempat, Kakashi menjadi Hokage Keenam \n"+
+                       "(六代目火影, Rokudaime Hokage; Secara harfiah berarti Bayangan Api Keenam).\n"+
+                       "\nLink Fandom : https://naruto.fandom.com/id/wiki/Kakashi_Hatake\n",
+    "Rock Lee"       : "Data diri : \n"+
+                       "Rock Lee (ロック・リー, Rokku Rī) adalah shinobi dari Konohagakure. Sementara ia tidak memiliki keterampilan tertentu \n"+
+                       "biasanya terkait dengan kehidupan sebagai seorang ninja, Lee berusaha untuk menebus kekurangannya dengan cara apa pun \n"+
+                       "yang dia bisa. Sebagai anggota Tim Guy, ia menerima pelatihan khusus dalam hal ini dari gurunya, Might Guy, \n"+
+                       "untuk menjadi seorang ahli taijutsu.\n"+
+                       "\nLink Fandom : https://naruto.fandom.com/id/wiki/Rock_Lee\n",
+ 
