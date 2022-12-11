@@ -269,3 +269,5 @@ def feedback():
                 print("NOTIFIKASI : ",isi, "Berhasil ditambahkan pada File",nama_file,"\n") 
                 print("\nIsi dari",nama_file,":",outfile.read())
                 outfile.close()     
+            except FileNotFoundError:
+                print("File",nama_file,"Tidak ada")
