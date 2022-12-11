@@ -209,4 +209,6 @@ bleachDict = {
                         "Ichigo Kurosaki (黒崎 一護, Kurosaki Ichigo) adalah seorang Manusia yang memiliki kekuatan Shinigami. Dia juga adalah seorang \n"+
                         "Shinigami Pengganti. Ichigo adalah anak dari Isshin dan Masaki Kurosaki, dan kakak tertua dari Karin dan Yuzu. \n"+
                         "\nLink Fandom : https://bleach.fandom.com/id/wiki/Ichigo_Kurosaki\n",
-   
+    "Abarai Renji"    : "Data diri : \n"+
+                        "Renji Abarai (阿散井 恋次, Abarai Renji) adalah letnan Divisi 6 dibawah pimpinan Kapten Byakuya Kuchiki. \n"+
+                        "\nLink Fandom : https://bleach.fandom.com/id/wiki/Renji_Abarai\n",
