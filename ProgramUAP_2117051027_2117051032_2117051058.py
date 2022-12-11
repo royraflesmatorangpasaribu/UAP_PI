@@ -335,3 +335,9 @@ def feedback():
               print(Karakter2[i])
       name2=int(input("\nPilih Karakter : "))
       characterlist2(name2)
+   else:
+      print("\nMenu tidak tersedia")
+elif menu == 3:
+    feedback()
+else:
+    print('\nPilihan Tidak Tersedia!')
