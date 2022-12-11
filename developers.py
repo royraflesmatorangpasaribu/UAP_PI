@@ -2,18 +2,22 @@
 class Admin:
   admCount = 0
   
-  def __init__(this, name, npm):
-      this.name = name
-      this.npm = npm
+  def __init__(self, name, npm):
+      self.name = name
+      self.npm = npm
       Admin.admCount += 1
 
-  def displayCount(this):
+  def displayCount(self):
       print (Admin.admCount)
 
-  def displayAdmin(this):
-      print ("\t",this.name,"-",this.npm,"\t")
+  def displayAdmin(self):
+      print ("\t",self.name,"-",self.npm)
       
-      
+adm1 = Admin("Auvar Mahsa Fahlevi", 2117051027)
+adm2 = Admin("Hamzah Hanif", 2117051032)
+adm3 = Admin("Roy Rafles Matorang Pasaribu", 2117051058)
+print (Admin.admCount)
+
 def pengembang():
   print("")
   print("===================================================")
@@ -24,5 +28,5 @@ def pengembang():
   adm1.displayAdmin()
   adm2.displayAdmin()
   adm3.displayAdmin()
-  print("\tTotal Developers : ",Admin.admCount)
+  print("\t\tTotal Developers : ",Admin.admCount)
   print("==================================================")
