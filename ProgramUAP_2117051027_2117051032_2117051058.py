@@ -111,3 +111,11 @@ def characterlist2(nama2):
         print('Quotes\t :',data['indo'])
     print()
     print(bleachDict['Abarai Renji'])
+
+  elif nama2== 3:
+    print('\nKuchiki Byakuya')
+    for data in katabijak2['result']:
+      if data['character']=='Kuchiki Byakuya':
+        print('Quotes\t :',data['indo'])
+    print()
+    print(bleachDict['Kuchiki Byakuya'])
