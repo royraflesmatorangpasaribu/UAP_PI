@@ -330,3 +330,8 @@ def feedback():
                   "5. Zaraki Kenpachi",
                   "6. Urahara Kisuke",
                   "7. Ulquiorra Schiffer"
+                   
+      for i in range(7):
+              print(Karakter2[i])
+      name2=int(input("\nPilih Karakter : "))
+      characterlist2(name2)
