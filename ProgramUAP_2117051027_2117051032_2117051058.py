@@ -128,5 +128,11 @@ def characterlist2(nama2):
     print()
     print(bleachDict['Aizen Sousuke'])
     
-    
+    elif nama2== 5:
+    print('\nZaraki Kenpachi')
+    for data in katabijak2['result']:
+      if data['character']=='Zaraki Kenpachi':
+        print('Quotes\t :',data['indo'])
+    print()
+    print(bleachDict['Zaraki Kenpachi'])
     
