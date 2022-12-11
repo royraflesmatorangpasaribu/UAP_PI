@@ -303,3 +303,6 @@ def feedback():
     listAnime = ["1. Naruto", "2. Bleach"]
     for i in range(2):
               print(listAnime[i])
+        
+    menu2 = int(input("\nPilih Anime : "))
+    print()
