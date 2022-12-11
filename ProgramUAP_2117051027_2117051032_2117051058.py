@@ -73,3 +73,22 @@ def characterlist(nama):
         print('Quotes\t :',data['indo'])
     print()
     print(narutoDict['Obito Uchiha'])
+
+  elif nama== 7:
+    print('\nItachi Uchiha')
+    for data in katabijak['result']:
+      if data['character']=='Itachi Uchiha':
+        print('Quotes\t :',data['indo'])
+    print()
+    print(narutoDict['Itachi Uchiha'])
+
+  elif nama== 8:
+    print('\nNara Shikamaru')
+    for data in katabijak['result']:
+      if data['character']=='Nara Shikamaru':
+        print('Quotes\t :',data['indo'])
+    print()
+    print(narutoDict['Nara Shikamaru'])
+
+  else:
+    print('\nPilihan Tidak Tersedia!')
