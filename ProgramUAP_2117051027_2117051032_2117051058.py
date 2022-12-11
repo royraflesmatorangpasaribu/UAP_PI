@@ -271,3 +271,15 @@ def feedback():
                 outfile.close()     
             except FileNotFoundError:
                 print("File",nama_file,"Tidak ada")
+
+
+
+  waktu = datetime.datetime.now()
+  for i in range (3):
+          nama = input("Masukkan Nama Anda : ")
+          print("")
+          print("NOTIFIKASI !!! | Waktu  : ", str(waktu))
+          print("Selamat Datang " + nama)
+          time.sleep(2)
+          break
+                
