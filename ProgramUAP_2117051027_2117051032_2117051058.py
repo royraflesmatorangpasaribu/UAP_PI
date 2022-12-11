@@ -34,6 +34,12 @@ def characterlist(nama):
         print('Quotes\t :',data['indo'])
     print()
     print(narutoDict["Hatake Kakashi"])
+
+    print()
+    balik = input("\nBack to menu(y/n)? ")
+    if balik == 'y' or 'Y':
+        os.system('cls')
+        main_menu()
     
   elif nama== 2:
     print('\nRock Lee')
@@ -43,6 +49,12 @@ def characterlist(nama):
     print()
     print(narutoDict['Rock Lee'])
     
+    print()
+    balik = input("\nBack to menu(y/n)? ")
+    if balik == 'y' or 'Y':
+        os.system('cls')
+        main_menu()
+    
   elif nama== 3:
     print('\nGaara')
     for data in katabijak['result']:
@@ -50,6 +62,12 @@ def characterlist(nama):
         print('Quotes\t :',data['indo'])
     print()
     print(narutoDict['Gaara'])
+
+    print()
+    balik = input("\nBack to menu(y/n)? ")
+    if balik == 'y' or 'Y':
+        os.system('cls')
+        main_menu()
     
   elif nama== 4:
     print('\nNaruto Uzumaki')
@@ -59,6 +77,12 @@ def characterlist(nama):
     print()
     print(narutoDict['Naruto Uzumaki'])
     
+    print()
+    balik = input("\nBack to menu(y/n)? ")
+    if balik == 'y' or 'Y':
+        os.system('cls')
+        main_menu()
+    
   elif nama== 5:
     print('\nHaku')
     for data in katabijak['result']:
@@ -67,6 +91,12 @@ def characterlist(nama):
     print()
     print(narutoDict['Haku'])
     
+    print()
+    balik = input("\nBack to menu(y/n)? ")
+    if balik == 'y' or 'Y':
+        os.system('cls')
+        main_menu()
+    
   elif nama== 6:
     print('\nObito Uchiha')
     for data in katabijak['result']:
@@ -74,6 +104,12 @@ def characterlist(nama):
         print('Quotes\t :',data['indo'])
     print()
     print(narutoDict['Obito Uchiha'])
+    
+    print()
+    balik = input("\nBack to menu(y/n)? ")
+    if balik == 'y' or 'Y':
+        os.system('cls')
+        main_menu()
 
   elif nama== 7:
     print('\nItachi Uchiha')
@@ -82,6 +118,12 @@ def characterlist(nama):
         print('Quotes\t :',data['indo'])
     print()
     print(narutoDict['Itachi Uchiha'])
+    
+    print()
+    balik = input("\nBack to menu(y/n)? ")
+    if balik == 'y' or 'Y':
+        os.system('cls')
+        main_menu()
 
   elif nama== 8:
     print('\nNara Shikamaru')
@@ -90,9 +132,21 @@ def characterlist(nama):
         print('Quotes\t :',data['indo'])
     print()
     print(narutoDict['Nara Shikamaru'])
+    
+    print()
+    balik = input("\nBack to menu(y/n)? ")
+    if balik == 'y' or 'Y':
+        os.system('cls')
+        main_menu()
 
   else:
     print('\nPilihan Tidak Tersedia!')
+    
+    print()
+    balik = input("\nBack to menu(y/n)? ")
+    if balik == 'y' or 'Y':
+        os.system('cls')
+        main_menu()
     
     
 def characterlist2(nama2):
@@ -104,6 +158,12 @@ def characterlist2(nama2):
         print('Quotes\t :',data['indo'])
     print()
     print(bleachDict['Kurosaki Ichigo'])
+    
+    print()
+    balik = input("\nBack to menu(y/n)? ")
+    if balik == 'y' or 'Y':
+        os.system('cls')
+        main_menu()
 
   elif nama2== 2:
     print('\nAbarai Renji')
@@ -112,6 +172,12 @@ def characterlist2(nama2):
         print('Quotes\t :',data['indo'])
     print()
     print(bleachDict['Abarai Renji'])
+    
+    print()
+    balik = input("\nBack to menu(y/n)? ")
+    if balik == 'y' or 'Y':
+        os.system('cls')
+        main_menu()
 
   elif nama2== 3:
     print('\nKuchiki Byakuya')
@@ -120,6 +186,12 @@ def characterlist2(nama2):
         print('Quotes\t :',data['indo'])
     print()
     print(bleachDict['Kuchiki Byakuya'])
+    
+    print()
+    balik = input("\nBack to menu(y/n)? ")
+    if balik == 'y' or 'Y':
+        os.system('cls')
+        main_menu()
 
   elif nama2== 4:
     print('\nAizen Sousuke')
@@ -129,6 +201,12 @@ def characterlist2(nama2):
     print()
     print(bleachDict['Aizen Sousuke'])
     
+    print()
+    balik = input("\nBack to menu(y/n)? ")
+    if balik == 'y' or 'Y':
+        os.system('cls')
+        main_menu()
+    
     elif nama2== 5:
     print('\nZaraki Kenpachi')
     for data in katabijak2['result']:
@@ -136,6 +214,12 @@ def characterlist2(nama2):
         print('Quotes\t :',data['indo'])
     print()
     print(bleachDict['Zaraki Kenpachi'])
+    
+    print()
+    balik = input("\nBack to menu(y/n)? ")
+    if balik == 'y' or 'Y':
+        os.system('cls')
+        main_menu()
     
     elif nama2== 6:
     print('\nUrahara Kisuke')
@@ -145,6 +229,12 @@ def characterlist2(nama2):
     print()
     print(bleachDict['Urahara Kisuke'])
     
+    print()
+    balik = input("\nBack to menu(y/n)? ")
+    if balik == 'y' or 'Y':
+        os.system('cls')
+        main_menu()
+    
     elif nama2== 7:
     print('\nUlquiorra Schiffer')
     for data in katabijak2['result']:
@@ -152,9 +242,21 @@ def characterlist2(nama2):
         print('Quotes\t :',data['indo'])
     print()
     print(bleachDict['Ulquiorra Schiffer'])
+    
+    print()
+    balik = input("\nBack to menu(y/n)? ")
+    if balik == 'y' or 'Y':
+        os.system('cls')
+        main_menu()
 
     else:
     print('\nPilihan Tidak Tersedia!')
+    
+    print()
+    balik = input("\nBack to menu(y/n)? ")
+    if balik == 'y' or 'Y':
+        os.system('cls')
+        main_menu()
     
 narutoDict = {
     "Hatake Kakashi" : "Data diri : \n"+
@@ -285,6 +387,7 @@ def feedback():
           time.sleep(2)
           break
 
+def main_menu():
   print('\n<<----- Selamat datang di kumpulan quotes anime ----->>\n')
   print('Menu\n1.Tampilkan semua quotes\n2.Cari quotes berdasarkan karakter\n3.Feedback')
 
