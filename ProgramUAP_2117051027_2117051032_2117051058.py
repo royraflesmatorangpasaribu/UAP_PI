@@ -231,3 +231,19 @@ bleachDict = {
                            "Ulquiora Cifer (ウルキオラ・シファー, Urukiora Shifā)[2] adalah Cuatro Espada (nomor 4) di pasukan Arrancar Sōsuke Aizen. \n"+
                            "\nLink Fandom : https://bleach.fandom.com/id/wiki/Ulquiorra_Cifer\n"
 }
+
+def feedback():
+    pilihan = 0
+    print("-----Pilihan File Feedback------\nRequestAnime.txt atau KritikSaran.txt")
+    nama_file = input("\nMasukkan nama file (.txt) :")
+    while pilihan !=3:
+        while(True):
+            try:
+                print("\n1 : Membuka",nama_file," \n2 : Menambah",nama_file," \n3 : Keluar Program")
+                pilihan = int(input("Pilihan : "))
+                if pilihan<=0 or pilihan>3 :
+                    raise ValueError
+                print("")
+                break
+            except :
+                print("Masukkan Pilihan 1, 2, 3! BUKAN HURUF ATAU KATA!!!\n")
