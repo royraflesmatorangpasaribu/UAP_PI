@@ -184,4 +184,12 @@ def characterlist2(nama2):
                        "Setelah bergabung dengan Tim Kakashi, Naruto bekerja keras untuk mendapatkan pengakuan desa sambil mengejar mimpinya \n"+
                        "untuk menjadi Hokage.\n"+
                        "\nLink Fandom : https://naruto.fandom.com/id/wiki/Naruto_Uzumaki\n",
- 
+    "Haku"           : "Data diri : \n"+
+                       "Haku (白, Haku) dalah seorang yatim piatu dari Negara Air, dan keturunan klan Yuki. \n"+
+                       "Ia kemudian menjadi shinobi setelah bertemu Zabuza Momochi yang menjadi mitranya, dan akhirnya menjadi Ninja Bayaran.\n"+
+                       "\nLink Fandom : https://naruto.fandom.com/id/wiki/Haku\n",
+    "Obito Uchiha"   : "Data diri : \n"+
+                       "Obito Uchiha (うちはオビト, Uchiha Obito) adalah anggota klan Uchiha dari Konohagakure. Dia diyakini telah meninggal selama Perang \n"+
+                       "Dunia Shinobi Ketiga, satu-satunya warisan yang masih ada adalah Sharingan yang dia berikan kepada rekan setimnya, Kakashi Hatake.\n"+
+                       "\nLink Fandom : https://naruto.fandom.com/id/wiki/Obito_Uchiha\n",
+
