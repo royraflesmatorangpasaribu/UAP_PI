@@ -143,3 +143,11 @@ def characterlist2(nama2):
         print('Quotes\t :',data['indo'])
     print()
     print(bleachDict['Urahara Kisuke'])
+    
+    elif nama2== 7:
+    print('\nUlquiorra Schiffer')
+    for data in katabijak2['result']:
+      if data['character']=='Ulquiorra Schiffer':
+        print('Quotes\t :',data['indo'])
+    print()
+    print(bleachDict['Ulquiorra Schiffer'])
