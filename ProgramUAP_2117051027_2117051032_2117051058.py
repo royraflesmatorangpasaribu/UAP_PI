@@ -57,3 +57,11 @@ def characterlist(nama):
         print('Quotes\t :',data['indo'])
     print()
     print(narutoDict['Naruto Uzumaki'])
+    
+  elif nama== 5:
+    print('\nHaku')
+    for data in katabijak['result']:
+      if data['character']=='Haku':
+        print('Quotes\t :',data['indo'])
+    print()
+    print(narutoDict['Haku'])
