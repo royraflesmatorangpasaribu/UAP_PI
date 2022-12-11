@@ -212,3 +212,10 @@ bleachDict = {
     "Abarai Renji"    : "Data diri : \n"+
                         "Renji Abarai (阿散井 恋次, Abarai Renji) adalah letnan Divisi 6 dibawah pimpinan Kapten Byakuya Kuchiki. \n"+
                         "\nLink Fandom : https://bleach.fandom.com/id/wiki/Renji_Abarai\n",
+    "Kuchiki Byakuya" : "Data diri : \n"+
+                        "Byakuya Kuchiki (朽木 白哉, Kuchiki Byakuya) adalah kepala ke-28 Keluarga Kuchiki, satu dari empat keluarga bangsawan \n"+
+                        "di Soul Society. Dia juga adalah kapten dari Divisi 6 di Gotei 13 dengan letnan Renji Abarai. \n"+
+                        "\nLink Fandom : https://bleach.fandom.com/id/wiki/Byakuya_Kuchiki\n",
+    "Aizen Sousuke"   : "Data diri : \n"+
+                        "Sōsuke Aizen (藍染 惣右介, Aizen Sōsuke) adalah mantan kapten Divisi 5 di Gotei 13. Sebelum dia meninggalkan Soul Society "+
+                        "bersama pengikutnya, Gin Ichimaru dan Kaname Tōsen. \n"+
