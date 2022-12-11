@@ -171,4 +171,17 @@ def characterlist2(nama2):
                        "yang dia bisa. Sebagai anggota Tim Guy, ia menerima pelatihan khusus dalam hal ini dari gurunya, Might Guy, \n"+
                        "untuk menjadi seorang ahli taijutsu.\n"+
                        "\nLink Fandom : https://naruto.fandom.com/id/wiki/Rock_Lee\n",
+      
+     "Gaara"         : "Data diri : \n"+
+                       "Gaara (我愛羅, Gaara) adalah shinobi dari Sunagakure. Shukaku disegel ke dalam tubuhnya pada hari ia dilahirkan, \n"+
+                       "prosedur yang menyebabkan kematian ibunya. Dianggap sebagai monster oleh desa dan dengan tidak ada yang mencintainya, \n"+
+                       "Gaara menjadi benci pada dunia dan mulai hanya mengandalkan kekuatannya sendiri, dengan mendapatkan gelar \n"+
+                       "Gaara Sang Pasir Terjun (砂瀑の我愛羅).\n"+
+                       "\nLink Fandom : https://naruto.fandom.com/id/wiki/Gaara\n",
+    "Naruto Uzumaki" : "Data diri : \n"+
+                       "Naruto Uzumaki (渦巻 鳴門, Uzumaki Naruto) adalah shinobi dari Konohagakure. Dia menjadi jinchūriki dari Ekor Sembilan \n"+
+                       "pada hari kelahirannya — sebuah nasib yang menyebabkan dia dijauhi oleh sebagian besar penduduk Konoha sepanjang masa kecilnya. \n"+
+                       "Setelah bergabung dengan Tim Kakashi, Naruto bekerja keras untuk mendapatkan pengakuan desa sambil mengejar mimpinya \n"+
+                       "untuk menjadi Hokage.\n"+
+                       "\nLink Fandom : https://naruto.fandom.com/id/wiki/Naruto_Uzumaki\n",
  
