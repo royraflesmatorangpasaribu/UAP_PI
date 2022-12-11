@@ -31,3 +31,5 @@ def characterlist(nama):
     for data in katabijak['result']:
       if data['character']=='Hatake Kakashi':
         print('Quotes\t :',data['indo'])
+    print()
+    print(narutoDict["Hatake Kakashi"])
