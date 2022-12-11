@@ -282,4 +282,17 @@ def feedback():
           print("Selamat Datang " + nama)
           time.sleep(2)
           break
-                
+
+  print('\n<<----- Selamat datang di kumpulan quotes anime ----->>\n')
+  print('Menu\n1.Tampilkan semua quotes\n2.Cari quotes berdasarkan karakter\n3.Feedback')
+
+  while True:
+    try:
+      menu = int(input("\nPilih menu : "))
+      print()
+      break
+    except:
+      print('Inputan salah!')
+
+  if menu == 1:
+    alldata()
