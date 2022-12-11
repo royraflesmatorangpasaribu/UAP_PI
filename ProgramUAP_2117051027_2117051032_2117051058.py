@@ -227,4 +227,7 @@ bleachDict = {
                         "Kisuke Urahara (浦原 喜助, Urahara Kisuke) adalah mantan kapten Divisi 12, sekaligus pendiri dari \n"+
                         "Institut Penelitian dan Pengembangan Shinigami.\n"+
                         "\nLink Fandom : https://bleach.fandom.com/id/wiki/Kisuke_Urahara\n",
-
+    "Ulquiorra Schiffer" : "Data diri : \n"+
+                           "Ulquiora Cifer (ウルキオラ・シファー, Urukiora Shifā)[2] adalah Cuatro Espada (nomor 4) di pasukan Arrancar Sōsuke Aizen. \n"+
+                           "\nLink Fandom : https://bleach.fandom.com/id/wiki/Ulquiorra_Cifer\n"
+}
