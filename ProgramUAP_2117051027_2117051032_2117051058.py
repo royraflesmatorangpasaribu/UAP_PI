@@ -14,3 +14,8 @@ katabijak2=katabijak2.json()
 
 katabijak['result']
 katabijak2['result']
+
+def alldata():
+  print('----------NARUTO----------')
+  for data in katabijak['result']:
+    print('Character\t :', data['character'].upper(),'\nQuotes\t\t :', data['indo'],'\n')
