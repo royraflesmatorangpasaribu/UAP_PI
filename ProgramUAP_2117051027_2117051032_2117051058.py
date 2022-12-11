@@ -306,3 +306,14 @@ def feedback():
         
     menu2 = int(input("\nPilih Anime : "))
     print()
+
+    if menu2 ==  1:
+      Karakter = ["1. Hatake Kakashi",
+                  "2. Rock Lee",
+                  "3. Gaara",
+                  "4. Naruto Uzumaki",
+                  "5. Haku",
+                  "6. Obito Uchiha",
+                  "7. Itachi Uchiha",
+                  "8. Nara Shikamaru"]  
+      
