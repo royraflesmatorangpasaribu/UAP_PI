@@ -219,3 +219,12 @@ bleachDict = {
     "Aizen Sousuke"   : "Data diri : \n"+
                         "Sōsuke Aizen (藍染 惣右介, Aizen Sōsuke) adalah mantan kapten Divisi 5 di Gotei 13. Sebelum dia meninggalkan Soul Society "+
                         "bersama pengikutnya, Gin Ichimaru dan Kaname Tōsen. \n"+"\nLink Fandom : https://bleach.fandom.com/id/wiki/Sōsuke_Aizen\n",
+    "Zaraki Kenpachi" : "Data diri : \n"+
+                        "Kenpachi Zaraki (更木 剣八, Zaraki Kenpachi) adalah Kapten yang sedang memimpin Divisi 11 di Gotei 13. \n"+
+                        "Dia adalah Kenpachi kesebelas, Letnannya adalah Yachiru Kusajishi. \n"+
+                        "\nLink Fandom : https://bleach.fandom.com/id/wiki/Kenpachi_Zaraki\n",
+    "Urahara Kisuke"  : "Data diri : \n"+
+                        "Kisuke Urahara (浦原 喜助, Urahara Kisuke) adalah mantan kapten Divisi 12, sekaligus pendiri dari \n"+
+                        "Institut Penelitian dan Pengembangan Shinigami.\n"+
+                        "\nLink Fandom : https://bleach.fandom.com/id/wiki/Kisuke_Urahara\n",
+
