@@ -1,4 +1,19 @@
 # modules
+class Admin:
+  admCount = 0
+  
+  def __init__(this, name, npm):
+      this.name = name
+      this.npm = npm
+      Admin.admCount += 1
+
+  def displayCount(this):
+      print (Admin.admCount)
+
+  def displayAdmin(this):
+      print ("\t",this.name,"-",this.npm,"\t")
+      
+      
 def pengembang():
   print("")
   print("===================================================")
@@ -6,7 +21,8 @@ def pengembang():
   print("===================================================")
   print("")
   print("----        Selamat Datang Program Kami       ----")
-  print("\tHamzah Hanif - 2117051032\t")
-  print("\tAuvar Mahsa Fahlevi - 2117051027 \t")
-  print("\tRoy Rafles Matorang Pasaribu - 2117051058 \t")
+  adm1.displayAdmin()
+  adm2.displayAdmin()
+  adm3.displayAdmin()
+  print("\tTotal Developers : ",Admin.admCount)
   print("==================================================")
