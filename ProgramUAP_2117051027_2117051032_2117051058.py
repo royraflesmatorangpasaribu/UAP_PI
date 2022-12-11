@@ -136,3 +136,10 @@ def characterlist2(nama2):
     print()
     print(bleachDict['Zaraki Kenpachi'])
     
+    elif nama2== 6:
+    print('\nUrahara Kisuke')
+    for data in katabijak2['result']:
+      if data['character']=='Urahara Kisuke':
+        print('Quotes\t :',data['indo'])
+    print()
+    print(bleachDict['Urahara Kisuke'])
