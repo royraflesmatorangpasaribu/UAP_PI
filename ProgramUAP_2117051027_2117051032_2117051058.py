@@ -24,3 +24,10 @@ def alldata():
   for data in katabijak2['result']:
     
     print('Character\t :', data['character'].upper(),'\nQuotes\t\t :', data['indo'],'\n')
+    
+def characterlist(nama):
+  if nama == 1:
+    print('\nHatake Kakashi')
+    for data in katabijak['result']:
+      if data['character']=='Hatake Kakashi':
+        print('Quotes\t :',data['indo'])
