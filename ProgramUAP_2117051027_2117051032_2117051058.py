@@ -119,3 +119,14 @@ def characterlist2(nama2):
         print('Quotes\t :',data['indo'])
     print()
     print(bleachDict['Kuchiki Byakuya'])
+
+  elif nama2== 4:
+    print('\nAizen Sousuke')
+    for data in katabijak2['result']:
+      if data['character']=='Aizen Sousuke':
+        print('Quotes\t :',data['indo'])
+    print()
+    print(bleachDict['Aizen Sousuke'])
+    
+    
+    
