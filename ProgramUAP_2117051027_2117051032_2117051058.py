@@ -65,3 +65,11 @@ def characterlist(nama):
         print('Quotes\t :',data['indo'])
     print()
     print(narutoDict['Haku'])
+    
+  elif nama== 6:
+    print('\nObito Uchiha')
+    for data in katabijak['result']:
+      if data['character']=='Obito Uchiha':
+        print('Quotes\t :',data['indo'])
+    print()
+    print(narutoDict['Obito Uchiha'])
