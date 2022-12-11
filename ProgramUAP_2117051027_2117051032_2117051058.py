@@ -92,3 +92,22 @@ def characterlist(nama):
 
   else:
     print('\nPilihan Tidak Tersedia!')
+    
+    
+def characterlist2(nama2):
+  
+  if nama2 == 1:
+    print('\nKurosaki Ichigo')
+    for data in katabijak2['result']:
+      if data['character']=='Kurosaki Ichigo':
+        print('Quotes\t :',data['indo'])
+    print()
+    print(bleachDict['Kurosaki Ichigo'])
+
+  elif nama2== 2:
+    print('\nAbarai Renji')
+    for data in katabijak2['result']:
+      if data['character']=='Abarai Renji':
+        print('Quotes\t :',data['indo'])
+    print()
+    print(bleachDict['Abarai Renji'])
