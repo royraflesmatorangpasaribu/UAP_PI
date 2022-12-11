@@ -321,3 +321,12 @@ def feedback():
 
       name=int(input("\nPilih Karakter : \n"))
       characterlist(name)
+      
+    elif menu2 == 2:
+      Karakter2 = ["1. Kurosaki Ichigo",
+                  "2. Abarai Renji",
+                  "3. Kuchiki Byakuya",
+                  "4. Aizen Sousuke",
+                  "5. Zaraki Kenpachi",
+                  "6. Urahara Kisuke",
+                  "7. Ulquiorra Schiffer"
