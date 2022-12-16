@@ -21,7 +21,7 @@ def alldata():
   for data in katabijak['result']:
     print('Character\t :', data['character'].upper(),'\nQuotes\t\t :', data['indo'],'\n')
 
-      print('----------BLEACH----------')
+    print('----------BLEACH----------')
   for data in katabijak2['result']:
     
     print('Character\t :', data['character'].upper(),'\nQuotes\t\t :', data['indo'],'\n')
@@ -111,7 +111,7 @@ def characterlist(nama):
         os.system('cls')
         main_menu()
 
-  elif nama== 7:
+  elif nama == 7:
     print('\nItachi Uchiha')
     for data in katabijak['result']:
       if data['character']=='Itachi Uchiha':
@@ -125,7 +125,7 @@ def characterlist(nama):
         os.system('cls')
         main_menu()
 
-  elif nama== 8:
+  elif nama == 8:
     print('\nNara Shikamaru')
     for data in katabijak['result']:
       if data['character']=='Nara Shikamaru':
@@ -165,7 +165,7 @@ def characterlist2(nama2):
         os.system('cls')
         main_menu()
 
-  elif nama2== 2:
+  elif nama2 == 2:
     print('\nAbarai Renji')
     for data in katabijak2['result']:
       if data['character']=='Abarai Renji':
